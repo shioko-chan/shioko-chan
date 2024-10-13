@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiori-unconscious)](https://github.com/shiori-unconscious/github-readme-stats)
 <!--
 **shiori-unconscious/shiori-unconscious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shioko-chan)](https://github.com/shioko-chan/github-readme-stats)
