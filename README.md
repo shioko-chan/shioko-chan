@@ -9,9 +9,9 @@
 ---
 
 ### GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shioko-chan&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats-two-eta-40.vercel.app/api?username=shioko-chan&show_icons=true&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shioko-chan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-eta-40.vercel.app/api/top-langs?username=shioko-chan&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
