@@ -1,18 +1,24 @@
-<!-- ## Hi there 👋 -->
+## 👋 Welcome to my GitHub!
 
-<!--
-**shiori-unconscious/shiori-unconscious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [exciting personal projects](https://github.com/shioko-chan)
+- 🌱 Always learning and exploring new technologies in **web development** and **machine learning**
+- 💬 Ask me anything about **JavaScript, Python, GitHub Actions**
+- 📫 Reach me through email: `your-email@example.com`
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shioko-chan&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-two-eta-40.vercel.app/api/top-langs/?username=shioko-chan&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shioko-chan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Projects I’m Proud of:
+1. 🚀 [Project A](link-to-project) - A brief description of the project, highlighting technologies used.
+2. 🐍 [Project B](link-to-project) - Another project.
+
+### Fun Facts:
+- 🎮 Gamer at heart with a love for RPGs
+- 🌏 Love exploring new cultures and learning languages
